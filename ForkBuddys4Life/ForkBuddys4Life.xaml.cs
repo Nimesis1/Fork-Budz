@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace ForkBuddys4Life
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ForkBuddys4Life.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ForkBuddys4Life : Window
     {
-        public MainWindow()
+        public ForkBuddys4Life()
         {
             InitializeComponent();
         }
